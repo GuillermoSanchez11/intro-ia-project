@@ -18,7 +18,7 @@ El dataset contiene información sobre diversos factores socioeconómicos que se
 
 ## **Fases del proyecto**
 - **Fase 1**: Preprocesamiento y entrenamiento del modelo predictivo. [Más información](https://github.com/daniel-lujan/intro-ia-project/tree/main/fase-1)
-- **Fase 2:** _En desarrollo_
+- **Fase 2:** Implementación del script de predicción, que toma un archivo de entrada con el dataframe en la carpeta `input` y genera una predicción en la carpeta `output` bajo el nombre `predictions.csv`. [Más información](https://github.com/daniel-lujan/intro-ia-project/tree/main/fase-2)
 - **Fase 3:** _En desarrollo_
 ## **Contacto**
 Para cualquier pregunta puedes contactar a los integrantes del proyecto:
