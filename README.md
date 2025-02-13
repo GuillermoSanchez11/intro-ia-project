@@ -17,9 +17,9 @@ Este proyecto tiene como objetivo desarrollar un modelo predictivo para predecir
 El dataset contiene información sobre diversos factores socioeconómicos que se utilizan para predecir si un individuo gana más de 50,000 dólares al año.
 
 ## **Fases del proyecto**
-- **Fase 1**: Preprocesamiento y entrenamiento del modelo predictivo. [Más información](https://github.com/daniel-lujan/intro-ia-project/tree/main/fase-1)
-- **Fase 2:** Implementación del script de predicción, que toma un archivo de entrada con el dataframe en la carpeta `input` y genera una predicción en la carpeta `output` bajo el nombre `predictions.csv`. [Más información](https://github.com/daniel-lujan/intro-ia-project/tree/main/fase-2)
-- **Fase 3:** _En desarrollo_
+- **Fase 1**: Preprocesamiento y entrenamiento del modelo predictivo. [Más información](https://github.com/GuillermoSanchez11/intro-ia-project/tree/main/fase-1)
+- **Fase 2:** Implementación del script de predicción, que toma un archivo de entrada con el dataframe en la carpeta `input` y genera una predicción en la carpeta `output` bajo el nombre `predictions.csv`. [Más información](https://github.com/GuillermoSanchez11/intro-ia-project/tree/main/fase-2)
+- **Fase 3:** Implementación de aplicación REST y script para consumir la API. [Más información](https://github.com/GuillermoSanchez11/intro-ia-project/tree/main/fase-3)
 ## **Contacto**
 Para cualquier pregunta puedes contactar a los integrantes del proyecto:
 - Daniel Lujan Agudelo: [daniel.lujan@udea.edu.co](mailto:daniel.lujan@udea.edu.co)
